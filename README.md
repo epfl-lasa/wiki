@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github.com/epfl-lasa/wiki/blob/master/img/lasa.jpg" width="450" />
-<img src="https://github.com/epfl-lasa/wiki/blob/master/img/epfl.png" width="450" />
+<img src="https://github.com/epfl-lasa/wiki/blob/master/img/lasa.jpg" width="300" />
+<img src="https://github.com/epfl-lasa/wiki/blob/master/img/epfl.png" width="300" />
 </p>
 
 # EPFL LASA Wiki
