@@ -24,7 +24,7 @@ BraceWrapping:
   AfterFunction: false
   AfterNamespace: false
   AfterUnion: false
-  BeforeCatch: true
+  BeforeCatch: false
   BeforeElse: false
   IndentBraces: false
   SplitEmptyFunction: false
