@@ -10,7 +10,7 @@ of the wiki is to provide help to newcomers, to give directions and suggestions 
 to unify and popularize the software stack, and to prevent knowledge drain.
 
 - :books: **Read**: Go over to the [wiki](https://github.com/epfl-lasa/wiki/wiki) and browse its contents.
-- :sos: **Report**: If you encounter isses, please submit them [here](https://github.com/epfl-lasa/wiki/issues).
+- :sos: **Report**: If you encounter issues, please submit them [here](https://github.com/epfl-lasa/wiki/issues).
 - :rocket: **Improve**: Help improving this wiki with your own contributions! Submit your 
 [pull request](https://github.com/epfl-lasa/wiki/pulls) to get your changes approved.
 
