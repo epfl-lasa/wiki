@@ -4,8 +4,6 @@
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
     <option name="INDENT_CLASS_MEMBERS" value="2" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
-    <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
-    <option name="KEEP_CASE_EXPRESSIONS_IN_ONE_LINE" value="true" />
     <option name="FUNCTION_NON_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_PARAMETERS_WRAP" value="5" />
