@@ -39,7 +39,7 @@
     "ContinuationIndentWidth": 4,
     "IndentCaseLabels": true,
     "IndentPPDirectives": "None",
-    "IndentWidth": 3,
+    "IndentWidth": 2,
     "KeepEmptyLinesAtTheStartOfBlocks": true,
     "MaxEmptyLinesToKeep": 1,
     "NamespaceIndentation": "None",
