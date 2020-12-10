@@ -1,0 +1,3 @@
+<launch>
+  <node name="python_node" pkg="python_package_template" type="python_node" output="screen"/>
+</launch>
